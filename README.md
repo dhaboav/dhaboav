@@ -10,9 +10,10 @@ Currently seeking opportunities as a **Software Engineer, Embedded Systems Engin
 Engineer**.
 
 🌐 Portfolio: https://dhaboav.github.io  
-📍 Indonesia  
-📫 mibotara@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/dhaboav
+📍 Location : Indonesia  
+📫 email    : mibotara@gmail.com  
+💼 LinkedIn : https://linkedin.com/in/dhaboav   
+📄 Resume   : [Dhammiko Bodhi Avatara_Resume](./assets/resume.pdf)
 
 ## 🛠 Skills
 
@@ -51,7 +52,7 @@ Engineer**.
 
 ## 🚀 Featured Projects
 
-### 📸 Backend Service Untuk Otomatisasi Validasi Format Pas Foto Dengan Pengolahan Citra Menggunakan Library OpenCV
+### 📸 Backend Service Untuk Otomatisasi Validasi Format Pas Foto Dengan Pengolahan Citra Menggunakan Library OpenCV — FullStack Developer • Final Thesis Project
 
 Backend service for automated passport/photo validation using computer vision. Built with FastAPI
 and OpenCV to detect faces, analyze background color, clothing similarity, and image composition
@@ -59,9 +60,11 @@ through RESTful APIs.
 
 🔗 Repository: https://github.com/dhaboav/trueformat-backend
 
+🔗 Paper: https://jurnal.kolibi.id/index.php/scientica/article/view/457
+
 <br>
 
-### 📚 Personal Bookshelf
+### 📚 Personal Bookshelf — FullStack Developer
 
 A digital library application to organize and manage personal book collections with search and
 categorization features.
@@ -70,7 +73,7 @@ categorization features.
 
 <br>
 
-### 🍊 Pemodelan Sistem dalam Analisis Rasa Buah Jeruk Pontianak Berbantuan Raspberry Pi Camera
+### 🍊 Pemodelan Sistem dalam Analisis Rasa Buah Jeruk Pontianak Berbantuan Raspberry Pi Camera — Embedded Systems Engineer • Team Project
 
 Embedded system developed for the PKM research project to support computer vision-based orange taste
 analysis. Responsible for Raspberry Pi camera integration, image acquisition, and real-time data
