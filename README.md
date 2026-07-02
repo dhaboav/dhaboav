@@ -1,35 +1,27 @@
 # Hi, I'm Dhammiko Bodhi Avatara 👋
 
-Computer Science Graduate from **University of Tanjungpura** with an interest in **Embedded
-Systems/IoT, Computer Vision, and Web Development**.
+Computer Science graduate from **Universitas Tanjungpura** with project experience building **REST APIs** using **FastAPI** and **Docker**, integrating **Computer Vision** with **OpenCV**, and developing **IoT applications** using **Raspberry Pi** and **ESP32**.
 
-Experienced in developing REST APIs, OpenCV-based applications, and embedded systems using Raspberry
-Pi and ESP32.
-
-Currently seeking opportunities as a **Software Engineer, Embedded Systems Engineer, or IoT
-Engineer**.
+I'm interested in **Backend Engineering**, particularly building APIs and software that connect Computer Vision and IoT systems with web applications.
 
 🌐 Portfolio: https://dhaboav.github.io  
 📍 Location : Indonesia  
-📫 email    : mibotara@gmail.com  
-💼 LinkedIn : https://linkedin.com/in/dhaboav   
-📄 Resume   : [Dhammiko Bodhi Avatara_Resume](./assets/resume.pdf)
+📫 Email : mibotara@gmail.com  
+💼 LinkedIn : https://linkedin.com/in/dhaboav  
+📄 Resume : [Dhammiko Bodhi Avatara_Resume](./assets/resume.pdf)
 
-## 🛠 Skills
+## 🛠 Tech Stack
 
-### Programming Languages
+### Backend
 
 - Python
-- JavaScript / TypeScript
-- C++
-- SQL
-
-### Web Development
-
-- React
-- Tailwind CSS
 - FastAPI
 - MySQL
+- Git
+
+### Computer Vision
+
+- OpenCV
 
 ### Embedded & IoT
 
@@ -38,43 +30,73 @@ Engineer**.
 - Arduino
 - ROS2
 
+### Frontend
+
+- React
+- TailwindCSS
+
 ### Tools
 
 - Docker
-- Git & GitHub
+- GitHub
 - Linux
+
+## 🚀 Featured Projects
+
+### 📸 TrueFormat — Automated Passport Photo Validation
+
+Backend service that automates passport photo validation using FastAPI and OpenCV.
+
+**Highlights**
+
+- RESTful API for image validation
+- Face detection and pose evaluation
+- Background color verification
+- Formal attire verification
+- Dockerized application
+
+**Tech Stack** FastAPI • OpenCV • Docker • Python
+
+🔗 Repository  
+https://github.com/dhaboav/trueformat-backend
+
+📄 Research Paper  
+https://jurnal.kolibi.id/index.php/scientica/article/view/457
+
+---
+
+### 📚 Personal Bookshelf
+
+Full-stack web application for organizing and managing personal book collections, with CRUD operations, search, and categorization.
+
+**Tech Stack** React • FastAPI • MySQL • Docker
+
+🔗 Repository: https://github.com/dhaboav/bookshelf
+
+---
+
+### 🍊 Orange Taste Analysis System (PKM-RE)
+
+Embedded computer vision system developed for a nationally funded research project supporting orange taste analysis.
+
+**Responsibilities**
+
+- Raspberry Pi camera integration
+- Image acquisition pipeline
+- Sensor integration
+- Real-time data streaming
+
+**Tech Stack** Python • Raspberry Pi • OpenCV
+
+## 🎯 Current Focus
+
+- PostgreSQL
+- Data Structures & Algorithms
+- Software Testing with Pytest
+- CI/CD with GitHub Actions
 
 ## 🌍 Languages
 
 - Indonesian — Native
 - English — Professional Working Proficiency
 - Japanese — Elementary
-
-## 🚀 Featured Projects
-
-### 📸 Backend Service Untuk Otomatisasi Validasi Format Pas Foto Dengan Pengolahan Citra Menggunakan Library OpenCV — FullStack Developer • Final Thesis Project
-
-Backend service for automated passport/photo validation using computer vision. Built with FastAPI
-and OpenCV to detect faces, analyze background color, clothing similarity, and image composition
-through RESTful APIs.
-
-🔗 Repository: https://github.com/dhaboav/trueformat-backend
-
-🔗 Paper: https://jurnal.kolibi.id/index.php/scientica/article/view/457
-
-<br>
-
-### 📚 Personal Bookshelf — FullStack Developer
-
-A digital library application to organize and manage personal book collections with search and
-categorization features.
-
-🔗 Repository: https://github.com/dhaboav/bookshelf
-
-<br>
-
-### 🍊 Pemodelan Sistem dalam Analisis Rasa Buah Jeruk Pontianak Berbantuan Raspberry Pi Camera — Embedded Systems Engineer • Team Project
-
-Embedded system developed for the PKM research project to support computer vision-based orange taste
-analysis. Responsible for Raspberry Pi camera integration, image acquisition, and real-time data
-streaming for machine learning processing.
